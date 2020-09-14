@@ -1,0 +1,3 @@
+Our game consists of some questions in the directories. Find these questions with help of CLI commands.
+ q.txt files contain these questions. If you can find the all correct answers, you will reach the aim and know 
+Ismail's height.
